@@ -44,3 +44,5 @@ const middle = function(array)
     return newArr;
 }
 middle([1,2,3,4]) 
+
+
