@@ -1,4 +1,4 @@
-const eqArrays = function(arr1, arr2)
+/* const eqArrays = function(arr1, arr2)
 {
     if(arr1.length !== arr2.length)
     {
@@ -23,7 +23,7 @@ const assertArraysEqual = function(arr1, arr2)
     else{
         console.log(`✅ Arrays are equal`);
     }
-}
+} */
 const middle = function(array)
 {
     let newArr = [];
@@ -43,6 +43,6 @@ const middle = function(array)
     }
     return newArr;
 }
-middle([1,2,3,4]) 
 
+module.exports = middle;
 
