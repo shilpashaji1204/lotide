@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@shilpashaji1204/lotide",
   "version": "1.0.0",
   "main": "assertArraysEqual.js",
   "directories": {
@@ -8,7 +8,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "shilpa shaji",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.7",
@@ -99,5 +99,5 @@
     "yargs-parser": "^20.2.4",
     "yocto-queue": "^0.1.0"
   },
-  "description": ""
+  "description": "creating various types of functions using JS for LHL Bootcamp "
 }
